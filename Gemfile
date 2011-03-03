@@ -24,6 +24,8 @@ group :development, :test do
   gem 'sqlite3'
   gem 'ruby-debug19'
   gem 'rspec-rails'
+  gem 'autotest'
+  gem 'autotest-rails'
   gem 'mocha'
   gem 'rcov_rails'
   # gem 'watchr'
