@@ -21,7 +21,6 @@ gem 'passenger', :group => :production
 
 # Debug
 group :development, :test do
-  gem 'sqlite3'
   gem 'ruby-debug19'
   gem 'rspec-rails'
   gem 'autotest'
